@@ -7,3 +7,10 @@ Applied Unsupervised learning on the image data-set of various soccer players to
            example : python encode_face.py --dataset dataset --encodings encodings.pickle
 	3. Once the pickle file is generated generate the cluster montage by running below mentioned code.
            example: python cluster_faces.py --encodings encodings.pickle
+
+### RESULT:
+![Image added](screenshots/sc1.png)
+
+![Image added](screenshots/sc2.png)
+
+![Image added](screenshots/sc3.png)
